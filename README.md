@@ -278,3 +278,7 @@ Here I used the Event-Masking idea with XGB from public notebooks, it gave a sma
 - Extensive feature engeneering w/ feature selection
 - Tuning blending weights for each race separately (led to severe CV overfitting)
 - NNs w/ cox loss (from pycox, deepsurv, etc.)
+
+## Certificate
+
+![certificate](certificate.png)
